@@ -20,7 +20,7 @@ ul {
   
   }
 
-.nav {
+a {
    text-decoration: none;
    color: white;
 }
@@ -37,9 +37,8 @@ li {
   }
   
 li a:hover {
-  background-color: black !important;
-  color:#009900 !important;
-  text-decoration: none !important;
+  color:#009900;
+  text-decoration: none;
   }
 
 footer {
