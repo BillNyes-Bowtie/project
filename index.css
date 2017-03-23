@@ -28,16 +28,17 @@ li {
   
   
   }
-a {
+li a {
   
-  text-decoration: none !important;
-  color: white !important;
+  text-decoration: none;
+  color: white;
   
   }
   
-a:hover {
+li a:hover {
   background-color: black;
   color:#009900 !important;
+  text-decoration: none;
   }
 
 footer {
