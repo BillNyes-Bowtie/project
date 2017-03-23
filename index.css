@@ -51,3 +51,21 @@ footer {
    width: 100%;
    border: transparent;
 }
+
+article {
+ margin-left: 200px;
+ overflow: hidden;
+ padding: 1em;
+ border-left: 2px transparent; 
+ position: relative;
+ }
+ 
+p {
+   border: transparent;
+   }
+
+
+section {
+    margin-top: 90px;
+    position: absolute;
+    }
