@@ -32,7 +32,6 @@ li {
   margin-left: 20px;
   font-size: 18px;
   font-family: 'Cuprum', sans-serif;
-  color: white; 
   }
   
 li a:hover {
@@ -72,6 +71,10 @@ section {
 .content {
    font-family: 'Open Sans', sans-serif; 
 
+}
+
+.white {
+   color: white;
 }
 
 h2 {
