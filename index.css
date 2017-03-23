@@ -19,6 +19,12 @@ ul {
   background-color: grey;
   
   }
+
+.nav {
+   text-decoration: none;
+   color: white;
+}
+   
 li {
   display: inline;
   width: 80px;
@@ -27,18 +33,13 @@ li {
   font-size: 18px;
   
   
-  }
-li a {
-  
-  text-decoration: none;
-  color: white;
   
   }
   
 li a:hover {
-  background-color: black;
+  background-color: black !important;
   color:#009900 !important;
-  text-decoration: none;
+  text-decoration: none !important;
   }
 
 footer {
