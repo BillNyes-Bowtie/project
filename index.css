@@ -12,11 +12,11 @@ header {
    font-size: 80px;
    }
    
-/*ul {
+ul {
   list-style: none;
-  margin: 0px;
+  margin-left: 40px !important;
   padding: 15px;
-  background-color: grey; */
+  
   
   }
 
@@ -27,9 +27,6 @@ a {
    
 li {
   display: inline;
-  width: 80px !important;
-  padding: 16px !important;
-  margin-left: 80px !important;
   font-size: 18px;
   font-family: 'Cuprum', sans-serif !important;
   color: white;
