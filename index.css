@@ -15,7 +15,9 @@ p {
 }
    
 
-
+h3 {
+      font-family: 'Open Sans', sans-serif;
+}
 
 footer {
    background-color: grey;
