@@ -28,7 +28,7 @@ a {
 li {
   display: inline;
   width: 80px !important;
-  padding: 0px 20px 0px 40px;
+  padding: 16px !important;
   margin-left: 80px !important;
   font-size: 18px;
   font-family: 'Cuprum', sans-serif !important;
