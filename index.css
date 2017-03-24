@@ -14,29 +14,8 @@ p {
       font-family: 'Open Sans', sans-serif;
 }
    
-ul {
-  list-style: none;
-  padding: 15px;
-  
-  
-  }
 
-a {
-   text-decoration: none;
-   color: white;
-}
-   
-li {
-  display: inline;
-  font-size: 18px;
-  font-family: 'Cuprum', sans-serif !important;
-  color: white;
-  }
-  
-li a:hover {
-  color:#009900;
-  text-decoration: none;
-  }
+
 
 footer {
    background-color: grey;
