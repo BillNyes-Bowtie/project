@@ -4,6 +4,12 @@ header {
       padding: 600px;
     }
 
+ .border {
+         border: 1px solid white;
+         background: transparent;
+         padding: 5px;
+         }
+
 .header {
    font-family: 'Cuprum', sans-serif;
    color: white;
