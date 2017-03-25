@@ -10,10 +10,14 @@ header {
          padding: 5px;
          }
 
-.header {
+#header {
    font-family: 'Cuprum', sans-serif;
    color: white;
-   font-size: 80px;
+      font-size: 80px; }
+
+ .header {
+   background-image:url("https://cdn.rawgit.com/kylie-short/project/a57c74af/Clover.jpg");
+   background-size: cover;
    }
 
 h4 {
